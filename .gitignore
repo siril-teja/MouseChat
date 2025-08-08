@@ -1,0 +1,37 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.log
+*.sqlite3
+
+# ---- Virtual Environment ----
+.venv/
+env/
+venv/
+ENV/
+*.env
+
+# ---- IDE & Editor Files ----
+.vscode/
+.idea/
+
+# ---- OS Files ----
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---- Build / Distribution ----
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# ---- Jupyter Notebook Checkpoints ----
+.ipynb_checkpoints/
+
+# ---- Local Config ----
+config.json
+settings.json
