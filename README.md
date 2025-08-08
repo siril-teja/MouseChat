@@ -4,6 +4,7 @@
 
 Inspired by the "Ask ChatGPT" selection popup on the web, but designed to work **system-wide**.
 
+![Example](screenshot.png)
 ---
 
 ## ✨ Features
